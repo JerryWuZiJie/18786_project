@@ -1,0 +1,3 @@
+[submodule "generative-inpainting-pytorch"]
+	path = generative-inpainting-pytorch
+	url = .\\generative-inpainting-pytorch\\
