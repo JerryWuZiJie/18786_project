@@ -1,2 +1,6 @@
 # datasets
 CamVid
+
+# generated image
+intermediate_imgs/
+output_imgs/
