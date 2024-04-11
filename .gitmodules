@@ -1,3 +1,5 @@
-[submodule "generative-inpainting-pytorch"]
+[submodule "generative_inpainting_pytorch"]
 	path = generative_inpainting_pytorch
 	url = https://github.com/JerryWuZiJie/generative-inpainting-pytorch.git
+	branch = master
+	update = rebase
