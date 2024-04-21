@@ -4,3 +4,6 @@ CamVid
 # generated image
 intermediate_imgs/
 output_imgs/
+
+# self trained model
+model.pth
